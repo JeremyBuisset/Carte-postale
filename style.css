@@ -1,0 +1,71 @@
+#carte{
+    background-color: #d5e7e7;
+    width:850px;
+    height: 500px;
+
+}
+
+#gauche {
+    display: inline-block;
+    color: #505050;
+    font-size: 20px;
+    width:450px;
+    line-height: 5px;
+    vertical-align: top;
+    padding-top: 130px;
+    padding-left: 30px;
+
+}
+
+
+#droite{
+    display: inline-block;
+    vertical-align: bottom;
+    border-left: solid 2px #505050;
+    height: 450px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+#grocarré{
+    position: absolute;
+    border: solid 2px #505050;
+    width: 100px;
+    height: 120px;
+    margin-left: 226px;
+}
+.ligne{
+    border-bottom: solid 2px #505050;
+    width:300px;
+    height: 40px;
+    margin-left:30px;
+}
+
+#lignes{
+    padding-top: 261px;
+}
+
+.pticarré{
+    display: inline-block;
+    border: solid 2px #505050;
+    width:20px;
+    height:30px;
+}
+
+#carrés{
+    margin-left: 30px;
+    margin-top: 40px;
+    vertical-align: bottom;
+}
+
+#pligne{
+    display: inline-block;
+    width:160px;
+    height: 40px;
+    border-bottom: solid 2px #505050;
+    margin-left: 5px;
+}
+
+#adresse{
+    margin-top: -19px;
+}
